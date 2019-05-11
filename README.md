@@ -104,6 +104,11 @@
  每个!important            | 无穷大
 
 
+ 优先级的问题：
+
+ !important > 行内样式 > ID > class > 标签
+
+
 
 
 
