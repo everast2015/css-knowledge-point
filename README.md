@@ -76,7 +76,7 @@
 
  3. `E::before` 和 `E::after`
 
- 
+ `before` 和 `after` 是在盒子`div` 内部的前面插入内容或者是内部后面插入内容
 
 
 
