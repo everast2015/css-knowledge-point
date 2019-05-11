@@ -46,3 +46,14 @@
 
 ![选择器](https://github.com/yjn2015/CSS-content/blob/master/img/select.png)
 
+1. 属性选择器
+
+
+选择器           | 含义                            | 
+--------------- |---------------------------------|
+ E[attr]        | 存在attr属性即可                 | 
+ E[attr=val]    | 属性值完全等于val                | 
+ E[attr*=val]   | 属性值里包含val字符串并且在任意位置| 
+ E[attr^=val]   | 属性值里包含val字符并且在开始位置  |
+ E[attr$=val]   | 属性值里包含val字符并且在结束位置  |
+
