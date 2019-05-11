@@ -44,5 +44,5 @@
 
 ## 选择器
 
-[选择器]()
+[选择器](https://github.com/yjn2015/CSS-content/blob/master/img/select.png)
 
