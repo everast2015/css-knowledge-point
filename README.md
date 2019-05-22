@@ -143,6 +143,7 @@
 
 ![外边距合并](https://github.com/yjn2015/CSS-content/blob/master/img/margin_collapsing_example_2.gif)
 
+尽管看上去有些奇怪，但是外边距甚至可以与自身发生合并。
 ```
   <!-- html 代码 -->
   <div class="father">
