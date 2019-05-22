@@ -136,6 +136,7 @@
 
 当一个元素出现在另一个元素上面时，第一个元素的下外边距于第二个元素的上外边距会发生合并。请看下图：
 
+![外边距合并](https://github.com/yjn2015/CSS-content/blob/master/img/margin_collapsing_example_1.gif)
 
 
 ```
