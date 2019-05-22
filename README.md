@@ -124,6 +124,36 @@
  7. 同一类选择器遵循就近原则 
 
 
+## 外边距合并塌陷的问题
+
+```
+  <!-- html 代码 -->
+  <div class="father">
+    <div class="son">
+
+    </div>
+  </div>
+
+  <!-- css 代码 -->
+  <style>
+    .father {
+      width: 300px;
+      height: 300px;
+      background-color: skyblue;
+      margin-top: 100px;
+      border: 1px solid red; /* 解决外边距合并(塌陷) 问题*/
+
+    }
+
+    .son {
+      width: 200px;
+      height: 200px;
+      background-color: green;
+      margin-top: 30px;
+    }
+  </style>
+```
+
 
 
 
