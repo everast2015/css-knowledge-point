@@ -157,7 +157,7 @@
 
 外边距合并初看上去可能有些奇怪，但是实际上，它是有意义的。以由几个段落组成的典型文本页面为例。第一个段落上面的空间等于段落的上外边距。如果没有外边距合并，后续所有段落之间的外边距都将是相邻上外边距和下外边距的和。这意味着段落之间的空间是页面顶部的两倍。如果发生外边距合并，段落之间的上外边距和下外边距就合并在一起，这样各处的距离就一致了。
 
-![外边距合并](https://github.com/yjn2015/CSS-content/blob/master/img/css_margin_collapsing_example.gif)
+![外边距合并](https://github.com/yjn2015/CSS-content/blob/master/img/css_margin_collapsing.gif)
 
 
 
