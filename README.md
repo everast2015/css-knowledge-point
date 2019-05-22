@@ -139,7 +139,9 @@
 ![外边距合并](https://github.com/yjn2015/CSS-content/blob/master/img/margin_collapsing_example_1.gif)
 
 
-当一个元素包含在另一个元素中时（假设没有内边距或边框把外边距分割开）
+当一个元素包含在另一个元素中时（假设没有内边距或边框把外边距分割开），它们的上和/或下外边距也会发生合并。请看下图：
+
+
 
 ```
   <!-- html 代码 -->
