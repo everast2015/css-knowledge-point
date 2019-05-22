@@ -146,6 +146,8 @@
 尽管看上去有些奇怪，但是外边距甚至可以与自身发生合并。
 
 假设有一个空元素，它有外边距，但是没有边框或填充。在这种情况下，上外边距与下外边距就碰到一起，它们会发生合并：
+
+![外边距合并](https://github.com/yjn2015/CSS-content/blob/master/img/margin_collapsing_example_3.gif)
 ```
   <!-- html 代码 -->
   <div class="father">
