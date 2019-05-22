@@ -151,6 +151,7 @@
 
 如果这个外边距遇到另一个元素的外边距，它还会发生合并：
 
+![外边距合并](https://github.com/yjn2015/CSS-content/blob/master/img/css_margin_collapsing_example_4.gif)
 
 ```
   <!-- html 代码 -->
