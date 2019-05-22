@@ -153,6 +153,8 @@
 
 ![外边距合并](https://github.com/yjn2015/CSS-content/blob/master/img/css_margin_collapsing_example_4.gif)
 
+这就是一系列的段落元素占用空间非常小的原因，因为它们的所有外边距都合并到一起，形成了一个小的外边距。
+
 ```
   <!-- html 代码 -->
   <div class="father">
