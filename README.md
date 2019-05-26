@@ -244,6 +244,7 @@
 
 `display: none` 和 `visiablity` 的区别：
 
+1. `display: none` 表示隐藏之后，不在保留位置
 
 
 
