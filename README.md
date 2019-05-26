@@ -219,6 +219,19 @@
 1. 首先`left: 50%`;
 2. 然后就是直接的负外边距的一半就可以了。
 
+```
+.son {
+  position: absolute;
+  width: 200px;
+  hegiht: 200px;
+  left: 50%;
+  top: 50%;
+  margin-left: -100px;
+  margin-top: -100px;
+
+}
+```
+
 
 
 
