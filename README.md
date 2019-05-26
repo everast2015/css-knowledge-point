@@ -191,6 +191,8 @@
 
 ## 定位相关
 
+- `position: static` 作用
+
 
 
 
