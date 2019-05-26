@@ -242,6 +242,8 @@
 
 ## 元素的显示和隐藏
 
+`display: none` 和 `visiablity` 的区别：
+
 
 
 
