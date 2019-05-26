@@ -324,6 +324,33 @@ text-overflow: clip | ellipsis
   3. 之所以`a` 包含 `span` 就是因为整个导航都是可以点击的。
 
 
+具体的代码：
+
+```
+  <!-- css 代码 -->
+  a {
+    display: inline-block;
+    height: 33px;
+    margin: 100px;
+    padding-left: 15px;
+    color: #fff;
+    background: url(image/ao.png) no-repeat;
+  }
+
+  a span {
+    display: inline-block;
+    height: 33px;
+    padding-right: 15px;
+    background: url(image/ao.png) no-repeat;
+  }
+
+  <!-- html 代码 -->
+  <a href="#">
+    <span> 首页 </span>
+  </a>
+```
+
+
 
 
 
