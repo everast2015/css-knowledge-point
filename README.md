@@ -291,6 +291,13 @@ img {
 - `nowrap` 强制在一行内显示所有文本，直到文本结束或者遭遇`br` 标签对象才换行。
 
 
+`text-overflow` 文字溢出
+
+```
+text-overflow: clip | ellipsis
+```
+
+
 
 
 
