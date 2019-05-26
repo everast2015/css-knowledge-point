@@ -318,6 +318,11 @@ text-overflow: clip | ellipsis
 <li>
 ```
 
+总结：
+  1. `a`设置背景左侧，`padding` 撑开合适宽度。
+  2. `span` 设置背景右侧，`padding` 撑开合适宽度剩下由文字继续撑开宽度。
+  3. 之所以`a` 包含 `span` 就是因为整个导航都是可以点击的。
+
 
 
 
