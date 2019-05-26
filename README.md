@@ -270,5 +270,9 @@ img {
 }
 ```
 
+2. 解决方案2
+
+给`img` `vertical-align: middle | top` 等等，让图片不要和基线对齐。
+
 
 
