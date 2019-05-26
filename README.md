@@ -262,7 +262,13 @@
 
 1. 解决方案
 
+给`img` 添加 `display: block;` 转换为快级元素就不会存在这个问题了。
 
+```
+img {
+  display: block;
+}
+```
 
 
 
