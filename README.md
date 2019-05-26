@@ -244,7 +244,8 @@
 
 `display: none` 和 `visiablity` 的区别：
 
-1. `display: none` 表示隐藏之后，不在保留位置
+1. `display: none` 表示隐藏之后，不在保留位置 
+2. `visiablity: hidden`; 隐藏之后，继续保留位置（停职留薪）
 
 
 
