@@ -331,10 +331,12 @@ text-overflow: clip | ellipsis
   a {
     display: inline-block;
     height: 33px;
+    line-height: 33px;
     margin: 100px;
     padding-left: 15px;
     color: #fff;
     background: url(image/ao.png) no-repeat;
+    text-decoration: none;
   }
 
   a span {
@@ -349,6 +351,8 @@ text-overflow: clip | ellipsis
     <span> 首页 </span>
   </a>
 ```
+
+## 伪元素
 
 
 
