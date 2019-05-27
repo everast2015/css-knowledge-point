@@ -383,6 +383,11 @@ text-overflow: clip | ellipsis
  transition-timing-function | 规定过渡效果的时间曲线，默认是 `ease` | 3
  transition-delay | 规定过渡效果何时开始，默认是0. | 3
 
+ 
+ `transition-timing-function` 运动曲线，属性值可以是：
+
+ 
+
 
 
 
