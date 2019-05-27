@@ -395,7 +395,16 @@ text-overflow: clip | ellipsis
  过渡效果代码示例：
 
  ```
- 
+ div {
+   width: 200px;
+   height: 100px;
+   background-color: skyblue;
+   transition: width .6s ease 0s, height .3s ease-in 1s;
+ }
+ div:hover {
+   width: 600px;
+   height: 300px;
+ }
  ```
 
 
