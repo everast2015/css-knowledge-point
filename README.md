@@ -386,7 +386,13 @@ text-overflow: clip | ellipsis
  
  `transition-timing-function` 运动曲线，属性值可以是：
 
- 
+ - `linear` 线性
+ - `ease` 减速
+ - `ease-in` 加速
+ - `ease-out` 减速
+ - `ease-in-out` 先加速后减速
+
+
 
 
 
