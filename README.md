@@ -370,6 +370,9 @@ text-overflow: clip | ellipsis
 
 语法格式：
 
+`transition:` 需过渡的属性 花费时间 运动曲线 何时开始；
+
+如果有多组属性变化，还是用逗号隔开。
 
 
 
