@@ -392,6 +392,10 @@ text-overflow: clip | ellipsis
  - `ease-out` 减速
  - `ease-in-out` 先加速后减速
 
+ 过渡效果代码示例：
+
+ 
+
 
 
 
