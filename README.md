@@ -362,7 +362,9 @@ text-overflow: clip | ellipsis
 4. 这两个伪元素的`content` 属性，表示伪元素的内容，设置`::before` 和 `::after` 时必须设置其`content` 属性，否则伪元素不起作用。
 5. 伪元素是不占位置的。
 
-## 认识过渡效果
+## 认识过渡效果 `transition`
+
+在 `CSS3` 中，我们可以使用`transition` 实现过渡效果，从一种动效过渡到另一种动效。
 
 
 
