@@ -409,7 +409,7 @@ text-overflow: clip | ellipsis
 
  如果需要所有的属性都变化的话，`transition-timing-function` 设置为`all` 即可。
 
-12121212121212
+1212121212121212
 
 
 
