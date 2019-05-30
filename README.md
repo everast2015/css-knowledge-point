@@ -411,6 +411,10 @@ text-overflow: clip | ellipsis
 
  ## transform 变形
 
+ 1. `transform: translate(50%)`
+
+ 这里的50%是以自己的宽度为准，而不是以父亲的宽度为准
+
 
 
 
