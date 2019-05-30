@@ -415,6 +415,8 @@ text-overflow: clip | ellipsis
 
  这里的50%是以自己的宽度为准，而不是以父亲的宽度为准
 
+ 12
+
 
 
 
