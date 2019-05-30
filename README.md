@@ -445,9 +445,19 @@ div {
 div {
   width: 200px;
   height: 200px;
+  overflow: hidden;
+}
+
+div img {
+   transition: all .3s;
+}
+
+div img:hover {
+  transform: rotate(1.2);
 }
 ```
 
+这样就可以实现一个鼠标经过之后，图片放大的效果。
 
 
 
