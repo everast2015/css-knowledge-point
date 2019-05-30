@@ -415,7 +415,16 @@ text-overflow: clip | ellipsis
 
  这里的50%是以自己的宽度为准，而不是以父亲的宽度为准
 
+设置一个元素水平和垂直居中，就可以使用这样的方法：
 
+```
+div {
+  position: absolate;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+```
 
 
 
