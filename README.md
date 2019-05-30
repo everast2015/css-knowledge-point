@@ -430,8 +430,22 @@ div {
 
 案例，鼠标放上去一个过渡的动画效果。
 
+实现的方法需注意两点：
+
+1. `transition: all .3s` 鼠标经过之后的过渡效果
+2. `transform: rotate(1.2)` 鼠标经过之后，图片放大的效果
+
 ```
-  
+<!-- html代码 -->
+<div>
+  <img src="./img/header.png">
+</div>
+
+<!-- css代码 -->
+div {
+  width: 200px;
+  height: 200px;
+}
 ```
 
 
