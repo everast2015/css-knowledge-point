@@ -461,6 +461,15 @@ div img:hover {
 
 ## transform-origin
 
+默认开始的旋转的角度为左上角开始选择，例如：
+
+```
+div {
+  transform-origin: left top;
+  // 表示以左上角的顶点为旋转的点
+}
+```
+
 
 
 
